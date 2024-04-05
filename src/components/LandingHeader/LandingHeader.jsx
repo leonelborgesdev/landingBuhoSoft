@@ -6,9 +6,16 @@ export const LandingHeader = () => {
     <div className="LandingHeader">
       <h2>
         We're
-        <span> Coders.</span>
-        <span>Developers.</span>
-        <span>DevelopersFullStack</span>
+        <span style={{ "--i": "0" }} data-text={"Coders."}>
+          {" "}
+          Coders.
+        </span>
+        <span style={{ "--i": "0" }} data-text={"Developers."}>
+          Developers.
+        </span>
+        <span style={{ "--i": "0" }} data-text={"DevelopersFullStack."}>
+          DevelopersFullStack
+        </span>
       </h2>
     </div>
   );
