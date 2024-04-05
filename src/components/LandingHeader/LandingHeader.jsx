@@ -12,8 +12,8 @@ export const LandingHeader = () => {
         <span style={{ "--i": "1" }} data-text={" Developers."}>
           Developers.
         </span>
-        <span style={{ "--i": "2" }} data-text={" DevelopersFullStack."}>
-          DevelopersFullStack
+        <span style={{ "--i": "2" }} data-text={" Designers."}>
+          Designers.
         </span>
       </h2>
     </div>
