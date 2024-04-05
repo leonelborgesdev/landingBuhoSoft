@@ -24,8 +24,18 @@
     left: 0;
     width: 100%;
     color: #01fe87;
+    overflow: hidden;
     border-right: 4px solid #01fe87;
     filter: drop-shadow(0 0 5px #01fe87) drop-shadow(0 0 25px #01fe87);
+    animation: animate_write 3s linear infinite;
+}
+@keyframes animate_write {
+    0%,10%,100%{
+        width: 0;
+    }
+    70%,90%{
+        width: 100%;
+    }
 }
 @keyframes displayText {
     0%{
