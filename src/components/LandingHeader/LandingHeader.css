@@ -1,3 +1,6 @@
 .LandingHeader{
     display: flex;
+    min-height: 100vh;
+    align-items: center;
+    background-color: #262626;
 }
