@@ -1,0 +1,17 @@
+.container_services{
+    display: flex;
+    justify-content: center;
+}
+.title_services{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 450px;
+}
+.title_services h2{    
+    color: #262626;
+    font-size: 3em;
+}
+.title_services h2 span{
+    color: #c76329;
+}

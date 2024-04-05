@@ -1,12 +1,12 @@
 .Navigation{
     display: flex;
-    background-color: #262626;
+    background-color: #fff;
     justify-content: end;
     gap: 1rem;
 }
 .Navigation span{
     cursor: pointer;
-    background-color: #01fe87;
+    background-color: #c1c4c2;
     border-radius: 20px;
     padding: 5px 20px;
     margin: 10px;

@@ -6,7 +6,7 @@ export const Nav = () => {
     <div className="Navigation">
       <span>Home</span>
       <span>Services</span>
-      <span>Project</span>
+      <span>Projects</span>
       <span>Contact</span>
     </div>
   );
