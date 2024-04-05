@@ -4,3 +4,15 @@
     align-items: center;
     background-color: #262626;
 }
+.LandingHeader h2{
+    color: #fff;
+    font-size: 5em;
+    font-weight: 600;
+    padding: 0 100px;
+}
+
+.LandingHeader h2{
+    position: relative;
+    color: rgba(255, 255, 255, 0.1);
+    
+}
