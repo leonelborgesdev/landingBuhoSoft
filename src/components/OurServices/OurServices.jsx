@@ -17,14 +17,26 @@ export const OurServices = () => {
         <div className="card_service">
           <img src={laptop} alt="" />
           <h2>Web Developer</h2>
+          <p>
+            Lorem Ipsum ha sido el texto de relleno estándar de las industrias
+            desde el año 1500, cuando un impresor.
+          </p>
         </div>
         <div className="card_service">
           <img src={soporte} alt="" />
           <h2>Soprte Tecnico</h2>
+          <p>
+            Lorem Ipsum ha sido el texto de relleno estándar de las industrias
+            desde el año 1500, cuando un impresor.
+          </p>
         </div>
         <div className="card_service">
           <img src={graficos} alt="" />
           <h2>Analisis de Datos</h2>
+          <p>
+            Lorem Ipsum ha sido el texto de relleno estándar de las industrias
+            desde el año 1500, cuando un impresor.
+          </p>
         </div>
       </div>
     </div>
