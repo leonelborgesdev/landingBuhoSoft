@@ -3,6 +3,7 @@ import { Nav } from "./components/Nav/Nav";
 import "./App.css";
 import { OurServices } from "./components/OurServices/OurServices";
 import { WhoWeAre } from "./components/WhoWeAre/WhoWeAre";
+import { HowCanWeHelp } from "./components/HowCanWeHelp/HowCanWeHelp";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <LandingHeader />
       <OurServices />
       <WhoWeAre />
+      <HowCanWeHelp />
     </div>
   );
 }
