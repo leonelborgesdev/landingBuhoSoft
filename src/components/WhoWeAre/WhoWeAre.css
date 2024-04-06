@@ -1,0 +1,6 @@
+.container_who_whe_are{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
