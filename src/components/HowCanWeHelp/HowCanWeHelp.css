@@ -5,8 +5,19 @@
 .weHelpText{
     display: flex;
     flex-direction: column;
+    justify-content: center;
     width: 50%;
     margin-left: 20px;
+}
+.weHelpText h3{
+    align-items: center;
+    justify-content: center;
+    color: #262626;
+    font-size: 3em;
+    margin: 0;
+}
+.weHelpText h3 span{
+    color: #971e6e;
 }
 .weHelpImage{
     display: flex;

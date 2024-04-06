@@ -7,6 +7,9 @@ export const HowCanWeHelp = () => {
     <div className="containerHowCanWeHelp">
       <div className="weHelpText">
         <h2>Como Podemos Ayudar</h2>
+        <h3>
+          Ayudamos a crear el cambio en tu <span>negocio</span>.
+        </h3>
         <p>
           Lorem Ipsum es simplemente el texto de relleno de las imprentas y
           archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de
