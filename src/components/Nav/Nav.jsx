@@ -4,10 +4,10 @@ import "./Nav.css";
 export const Nav = () => {
   return (
     <div className="Navigation">
-      <span>Home</span>
-      <span>Services</span>
-      <span>Projects</span>
-      <span>Contact</span>
+      <a href="#Home">Home</a>
+      <a href="#Services">Services</a>
+      <a href="#Projects">Projects</a>
+      <a href="#Contact">Contact</a>
     </div>
   );
 };

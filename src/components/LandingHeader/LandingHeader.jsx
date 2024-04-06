@@ -3,7 +3,7 @@ import "./LandingHeader.css";
 
 export const LandingHeader = () => {
   return (
-    <div className="LandingHeader">
+    <div className="LandingHeader" id="#Home">
       <div className="text_landing">
         <h2>
           {"We're "}

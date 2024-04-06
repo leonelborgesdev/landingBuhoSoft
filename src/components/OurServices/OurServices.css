@@ -3,6 +3,7 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    gap: 1rem;
 }
 .title_services{
     display: flex;
@@ -23,5 +24,17 @@
 }
 .services{
     display: flex;
-    
+    gap: 1rem;
+}
+.card_service{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 350px;
+    width: 350px;
+    border: 1px solid black;
+}
+.card_service img{
+    width: 150px;
 }
