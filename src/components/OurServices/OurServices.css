@@ -1,17 +1,27 @@
 .container_services{
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 .title_services{
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
     width: 450px;
 }
-.title_services h2{    
+.title_services h2{
+    align-items: center;
+    justify-content: center; 
     color: #262626;
     font-size: 3em;
+    margin: 0;
 }
 .title_services h2 span{
     color: #c76329;
+}
+.services{
+    display: flex;
+    
 }
