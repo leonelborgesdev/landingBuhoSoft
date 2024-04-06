@@ -3,6 +3,8 @@
     background-color: #fff;
     justify-content: end;
     gap: 1rem;
+    position: sticky;
+    top: 0;
 }
 .Navigation a{
     cursor: pointer;

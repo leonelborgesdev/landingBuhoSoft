@@ -16,7 +16,7 @@ export const OurServices = () => {
       <div className="services">
         <div className="card_service">
           <img src={laptop} alt="" />
-          <h2>Web Developer</h2>
+          <h2>Desarrollo Web</h2>
           <p>
             Lorem Ipsum ha sido el texto de relleno estándar de las industrias
             desde el año 1500, cuando un impresor.

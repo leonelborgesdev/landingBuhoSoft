@@ -1,8 +1,9 @@
 .LandingHeader{
     display: flex;
-    min-height: 95vh;
+    min-height: 90vh;
     align-items: center;
     background-color: #fff;
+    transition: 1s;
 }
 .image_landing{
     display: flex;
@@ -13,11 +14,17 @@
     width: 350px;
     border-radius: 50%;
 }
+.text_landing h3{
+    padding: 0 50px;
+    width: 60%;
+    font-size: 1em;
+}
 .text_landing h2{
     color: #262626;
     font-size: 5em;
     font-weight: 600;
     padding: 0 50px;
+    margin: 5px;
 }
 
 .text_landing h2 span{
