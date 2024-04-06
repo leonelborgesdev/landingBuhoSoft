@@ -2,5 +2,21 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
     gap: 1rem;
+}
+.whoWeAre_img{
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+}
+.whoWeAre_img img{
+    width: 450px;
+}
+.whoWeAre_text{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
 }
