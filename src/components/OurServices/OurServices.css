@@ -1,8 +1,10 @@
+
 .container_services{
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    width: 100%;
     gap: 3rem;
 }
 .title_services{
@@ -10,7 +12,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    width: 450px;
+    width: 50%;
 }
 .title_services h2{
     align-items: center;
@@ -24,6 +26,9 @@
 }
 .services{
     display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
     gap: 1rem;
 }
 .card_service{

@@ -8,9 +8,8 @@ export const OurServices = () => {
   return (
     <div className="container_services" id="Services">
       <div className="title_services">
-        <h2>We Provide Best</h2>
         <h2>
-          <span>Solutions</span> for you
+          Proporcionamos las mejores <span>Soluciones</span> para ti
         </h2>
       </div>
       <div className="services">
